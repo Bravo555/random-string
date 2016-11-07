@@ -23,5 +23,3 @@ def gen_word(minlength = 4, maxlength = 20):
             result += random.choice(even_letters)
 
     return result
-
-print(gen_word())

@@ -2,7 +2,7 @@ language: python
 python:
     - "3.5"
 
-script: nosetests
+script: nosetests --with-coverage --cover-erase --cover-package=randstring
 
 addons:
     code_climate:

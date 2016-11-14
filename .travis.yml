@@ -3,3 +3,7 @@ python:
     - "3.5"
 
 script: nosetests
+
+addons:
+    code_climate:
+        repo_token: a3d7c6f1718bb0ffeff458b414d39c0aad5246db879a8b836b871dc36d9da4b8

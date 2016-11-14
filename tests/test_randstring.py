@@ -23,8 +23,8 @@ class TestRandstring(unittest.TestCase):
 		result = randstring.gen_word()
 
 		if(result[0] in randstring.VOWELS):
-			 odd_letters = randstring.VOWELS;
-			 even_letters = randstring.CONSONANTS
+            odd_letters = randstring.VOWELS;
+            even_letters = randstring.CONSONANTS
 		else:
 			odd_letters = randstring.CONSONANTS
 			even_letters = randstring.VOWELS

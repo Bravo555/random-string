@@ -6,4 +6,4 @@ script: nosetests --with-coverage --cover-erase --cover-package=randstring && co
 
 addons:
     code_climate:
-        repo_token: a3d7c6f1718bb0ffeff458b414d39c0aad5246db879a8b836b871dc36d9da4b8
+        repo_token: 4fc089de7c2fbc55f341fdf77ff6b72b7ac5a93e545fd26c98c484342a51a984 

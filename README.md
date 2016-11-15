@@ -1,6 +1,6 @@
 # randstring
-[![Build Status](https://travis-ci.org/Bravo555/randstring.svg?branch=master)](https://travis-ci.org/Bravo555/randstring)
-[![Test Coverage](https://codeclimate.com/github/Bravo555/randstring/badges/coverage.svg)](https://codeclimate.com/github/Bravo555/randstring/coverage)
+[![Build Status](https://travis-ci.org/Bravo555/random-string.svg?branch=master)](https://travis-ci.org/Bravo555/randstring)
+[![Test Coverage](https://codeclimate.com/github/Bravo555/random-string/badges/coverage.svg)](https://codeclimate.com/github/Bravo555/randstring/coverage)
 
 Python library for generating random strings
 
